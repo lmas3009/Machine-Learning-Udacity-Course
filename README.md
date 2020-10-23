@@ -1,1 +1,1 @@
-# Machine-Learning-Using-Udacity
+# Machine-Learning-Udacity-Course
